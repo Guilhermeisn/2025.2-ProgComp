@@ -33,3 +33,4 @@ Ao final do curso, você será capaz de:
 
 ## 🤝 Contribuição
 Sugestões e melhorias são bem-vindas! Caso encontre algum erro ou queira compartilhar ideias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+.
